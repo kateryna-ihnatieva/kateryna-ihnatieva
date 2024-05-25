@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Python Backend developer with Django experience<br>🌱 I’m currently learning in university<br>👩‍💻 Wrote research papers on Flask app development<br>💻Made my own Django project<br>⚡Purposeful, organized, fast learner
+🔭 I’m Python Backend developer with Django experience<br>🌱 I currently study at university<br>👩‍💻 Wrote research papers on Flask app development<br>💻Made my own Django project<br>⚡Purposeful, organized, fast learner
 
 
 ## 🌐 Socials:
