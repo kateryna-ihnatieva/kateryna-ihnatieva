@@ -64,10 +64,8 @@ I specialize in building maintainable, scalable backend systems, writing **robus
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kateryna-ihnatieva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kateryna-ihnatieva&show_icons=true&theme=dark&hide_border=false)](https://github.com/kateryna-ihnatieva) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kateryna-ihnatieva&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kateryna-ihnatieva&theme=dark&hide_border=false&layout=compact)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kateryna-ihnatieva&layout=compact&theme=dark&hide_border=false)](https://github.com/kateryna-ihnatieva)  
 
 ---
