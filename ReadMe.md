@@ -1,19 +1,73 @@
-# 💫 About Me:
-🔹 Python Backend Developer with expertise in Django & Flask<br>	
-🚀 Passionate about building scalable, high-performance web applications<br>	
-⚙️ Experienced in designing, developing, and maintaining complex systems<br>	
-🔍 Strong problem-solving skills & attention to detail<br>	
-🎯 Fast learner, highly motivated, and always open to new challenges
+# 👩‍💻 About Me
 
+Python Backend Developer with hands-on experience in designing and developing backend systems using **Flask** and **Django**, with a strong focus on **clean architecture**, **Domain-Driven Design (DDD)**, and **testability**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kateryna-ihnatieva-269973222/) 
+I specialize in building maintainable, scalable backend systems, writing **robust tests**, and designing **domain models** and **access policies**. I have experience working in **English-speaking distributed teams**, contributing through code reviews, tests, and architectural improvements.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kateryna-ihnatieva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kateryna-ihnatieva&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kateryna-ihnatieva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 What I Work With
+
+- Backend development with **Python**
+- REST APIs using **Flask** and **Django**
+- Domain-driven design (entities, value objects, repositories, access policies)
+- Writing **unit, integration, and policy tests** (pytest)
+- Relational databases and data modeling
+- Environment-based configuration and clean project structure
+- Dockerized environments and API testing with **Postman**
+- Working with **Pydantic** for validation and domain models
+- Maintaining and refactoring existing codebases for scalability
+
+---
+
+## 🧠 Core Competencies
+
+- Backend system design and refactoring
+- Business logic modeling and validation
+- Access control and authorization policies
+- Test-driven and test-supported development
+- Writing maintainable and reliable tests for complex systems
+- Attention to edge cases and long-term maintainability
+- Clear technical communication
+
+---
+
+## 🌐 Professional Profiles
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kateryna-ihnatieva-269973222/)
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Validation**  
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=blue)
+
+**Frontend / Others**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kateryna-ihnatieva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kateryna-ihnatieva&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kateryna-ihnatieva&theme=dark&hide_border=false&layout=compact)
+
+---
