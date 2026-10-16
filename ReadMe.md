@@ -1,7 +1,3 @@
-# 👩‍💻 Kateryna Ihnatieva
-
-### Software Engineer | Python Backend Developer
-
 ## 👩‍💻 About Me
 
 I am a **Software Engineer specializing in Python back-end development**, with 3 years of experience building and maintaining backend systems. My expertise includes **Python, Flask, Django, FastAPI, PostgreSQL, and Redis**, with a strong focus on designing reliable APIs, implementing complex business logic, and developing maintainable software architectures.
