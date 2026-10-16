@@ -76,6 +76,17 @@ I enjoy solving complex engineering problems, refactoring existing codebases, an
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kateryna-ihnatieva&show_icons=true&theme=dark&hide_border=true)](https://github.com/kateryna-ihnatieva)
+<div align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kateryna-ihnatieva&theme=github_dark"
+    width="40%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kateryna-ihnatieva&theme=github_dark"
+    width="59%"
+    alt="GitHub Profile Details"
+  />
+</div>
 
 ---
